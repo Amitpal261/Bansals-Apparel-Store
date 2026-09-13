@@ -5,20 +5,6 @@
 
 ---
 
-## 📍 Store Information
-
-- **Store Name:** Bansals Apparel
-- **Address:** 2/654/21, Main Market Rd, near Bhajanpura, Block B, Bhajanpura, Tukhmirpur, Delhi, 110053
-- **Contact Number:** [+91 97737 19071](tel:+919773719071)
-- **WhatsApp:** [+91 97737 19071](https://wa.me/919773719071)
-- **Google Rating:** 4.0 ★ (140+ Customer Reviews)
-- **Timings:**
-  - Monday – Saturday: 10:30 AM – 09:30 PM
-  - Sunday: 10:30 AM – 10:00 PM
-  - Festive Seasons (Diwali, Eid, Karwa Chauth, Weddings): 10:00 AM – 10:30 PM
-
----
-
 ## ✨ Key Features
 
 ### 1. Responsive TopBar & Store Status
